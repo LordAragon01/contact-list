@@ -1,0 +1,11 @@
+.activeborderinput{
+	border:.1rem solid #AA292F !important;
+}
+
+.messageinputsuccess{
+	display:none;
+}
+
+.messageinputerror{
+	display:none;
+}
